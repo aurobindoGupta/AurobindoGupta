@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...making money
 - 🌱 I’m currently learning ...react js
 - 💞️ I’m looking to collaborate on ...anything
-- 📫 How to reach me ...any socialmedia.
+- 📫 How to reach me ..[LinkedIn](https://www.linkedin.com/in/aurobindo-gupta/)
 
 <!---
 AurobindoGupta/AurobindoGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
